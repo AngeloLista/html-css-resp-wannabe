@@ -66,5 +66,9 @@
         font-size: 15px;
         width: 90%;
         margin-bottom: 30px;
-}
+    }
+
+    #why .row img {
+        height: 50px;
+    }
 }
