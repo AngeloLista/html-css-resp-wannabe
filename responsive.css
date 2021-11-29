@@ -35,7 +35,11 @@
 
     #steps .row>.left,
     #steps .row>.central,
-    #steps .row>.right, {
-        
-    }
+    #steps .row>.right {
+        float: none;
+        margin: auto;
+        font-size: 30px;
+        width: 90%;
+        margin-bottom: 30px;
+}
 }
